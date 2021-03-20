@@ -1,0 +1,10 @@
+C:\Users\ADM\source\repos\Av3C48Ex09\bin\Debug\Av3C48Ex09.exe.config
+C:\Users\ADM\source\repos\Av3C48Ex09\bin\Debug\Av3C48Ex09.exe
+C:\Users\ADM\source\repos\Av3C48Ex09\bin\Debug\Av3C48Ex09.pdb
+C:\Users\ADM\source\repos\Av3C48Ex09\obj\Debug\Av3C48Ex09.csprojAssemblyReference.cache
+C:\Users\ADM\source\repos\Av3C48Ex09\obj\Debug\Av3C48Ex09.Form1.resources
+C:\Users\ADM\source\repos\Av3C48Ex09\obj\Debug\Av3C48Ex09.Properties.Resources.resources
+C:\Users\ADM\source\repos\Av3C48Ex09\obj\Debug\Av3C48Ex09.csproj.GenerateResource.cache
+C:\Users\ADM\source\repos\Av3C48Ex09\obj\Debug\Av3C48Ex09.csproj.CoreCompileInputs.cache
+C:\Users\ADM\source\repos\Av3C48Ex09\obj\Debug\Av3C48Ex09.exe
+C:\Users\ADM\source\repos\Av3C48Ex09\obj\Debug\Av3C48Ex09.pdb
